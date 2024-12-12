@@ -2,16 +2,7 @@
   <a href="https://discord.com/users/969254887621820526">
     <img src="https://img.shields.io/badge/Discord-3e70dd?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
 </div>
-
-<br />
-
-[![Curity Badge](https://img.shields.io/badge/working_with-Curity.io-blue)](https://curity.io)
-
-[![Cloudflare Badge](https://img.shields.io/badge/working_with-Cloudflare-orange)](https://cloudflare.com)
-
-[![Virustotal Badge](https://img.shields.io/badge/working_with-Virustotal-blue)](https://virustotal.com)
-
-
+    
 ### Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tobezdev&theme=vue-dark)
 
