@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👨‍💻 Well... Hey!
 
-<!--
-**tobezdev/tobezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=tobezdev&color=00b0b3)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐: [![tobezdev.com](https://img.shields.io/badge/tobezdev.com-333)](https://tobezdev.com/)
+✉️: [![Static Badge](https://img.shields.io/badge/toby%40tobezdev.com-333)](mailto:toby@tobezdev.com)
+
+---
+
+| **GitHub Stats**         | **Details**                                                                 |
+|:------------------------:|:---------------------------------------------------------------------------:|
+| **GitHub Profile Stats** | ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tobezdev&show_icons=true&hide_title=true&count_private=truw&theme=dark) |
+| **Top Languages**        | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobezdev&layout=compact&theme=dark) |
+| **GitHub Streak**        | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tobezdev&theme=dark) |
+
+
+---
