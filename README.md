@@ -1,4 +1,4 @@
-# 👨‍💻 Well... Hey!
+# 👨‍💻 Well... hey!
 
 ![Profile views](https://komarev.com/ghpvc/?username=tobezdev&color=00b0b3)
 
@@ -9,9 +9,9 @@
 ---
 
 | **GitHub Stats**         | **Details**                                                                 |
-|:------------------------:|:---------------------------------------------------------------------------:|
-| **GitHub Profile Stats** | ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tobezdev&show_icons=true&hide_title=true&count_private=truw&theme=dark) |
+|:------------------------:|:----------------------------------------------------------------------------|
 | **Top Languages**        | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobezdev&layout=compact&theme=dark) |
+| **GitHub Profile Stats** | ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tobezdev&show_icons=true&hide_title=true&count_private=truw&theme=dark) |
 | **GitHub Streak**        | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tobezdev&theme=dark) |
 
 
